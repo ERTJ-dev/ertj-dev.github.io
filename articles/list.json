@@ -1,24 +1,11 @@
 [
     {
-        "id": "example1",
-        "title": "示例文章1",
-        "date": "2025/7/26",
-        "category": "电脑",
-        "excerpt": "文章摘要..."
-    },
-    {
-        "id": "example2",
+        "id": "example",
         "title": "编程学习中常见的问题与解决方法",
         "date": "2025/7/26",
-        "category": "电脑",
-        "excerpt": "文章摘要..."
-    },
-    {
-        "id": "example3",
-        "title": "md指南",
-        "date": "2025/7/26",
-        "category": "电脑",
-        "excerpt": "文章摘要..."
+        "category": "学习",
+        "excerpt": ""
     }
+
 
 ]
